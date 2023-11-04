@@ -18,9 +18,6 @@ Rust has become an exciting alternative to C++ for audio programming. This talk 
 
 ### Details
  - **Introduction**: Purpose of this talk
-   - Ugly C++ code
-   - Nicer looking Faust code (not good for everything)
-   - Nicer looking CMajor code (proprietary compiler)
  - **Intro to Rust**: Crash course on the Rust type system
  - **Traits**: Implementing `Processor` and `Generator` using `Sample`/`Frame` and `Block`
  - **Iterators**: Using iterators to implement stuff
